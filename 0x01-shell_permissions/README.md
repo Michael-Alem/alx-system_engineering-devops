@@ -1,1 +1,1 @@
-mirror permission
+add permission
