@@ -1,1 +1,1 @@
-permission for owner
+permission for everyone
