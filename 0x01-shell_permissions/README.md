@@ -1,1 +1,1 @@
-permission for everyone
+james bond
