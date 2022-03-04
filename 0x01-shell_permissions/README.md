@@ -1,1 +1,1 @@
-permission 751
+group change
